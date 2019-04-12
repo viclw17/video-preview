@@ -56,5 +56,6 @@ video {
 canvas {
   background-color: #ddd;
   width: 100%;
-  height: 100%;
+  /* Weird aspect fix... */
+  /* height: 100%; */
 }
